@@ -1,0 +1,7 @@
+/* src/index.css */
+
+/* This single line imports Tailwind into your project.
+   Tailwind will generate utility classes like:
+   p-4, bg-white, text-xl, flex, etc.
+*/
+@import "tailwindcss";
