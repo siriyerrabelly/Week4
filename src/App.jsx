@@ -94,7 +94,7 @@ export default function App() {
       // Save to state so WeatherCard can display
       setWeather(data);
 
-      setStatus("Done ✅");
+      setStatus("Done ");
     } catch (e) {
       setError("Failed to fetch weather for this location.");
     } finally {
